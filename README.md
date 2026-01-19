@@ -111,9 +111,5 @@ Tests rely on mock or in-memory repository implementations to ensure determinist
 
 ---
 
-## 📜 License
-
-This project is provided for educational and demonstration purposes.
-
 ```
 ```
